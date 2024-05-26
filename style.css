@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(221, 221, 221);
+}
+.alertContainer{
+    background-color: rgb(65, 209, 65);
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    transition: all 0.3s ease;
+}
+.alertText{
+    padding: 10px;
+    color: #ffffff;;
+}
+.button{
+    margin: 8px 0px;
+    background-color: white;
+}
